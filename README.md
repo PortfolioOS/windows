@@ -28,3 +28,8 @@ Portfolios/website with windows theme
     <td align="center"><a href="https://github.com/ShizukuIchi"><img src="https://avatars.githubusercontent.com/u/19783326?v=4" width="100px;" alt=""/><br /><sub><b>sh1zuku</b></sub></a><br /><a href="https://github.com/ShizukuIchi/winXP">winXP</a></td>
   </tr>
 </table>
+
+## More
+* https://github.com/search?l=HTML&q=windows+11&type=Repositories
+* https://github.com/search?l=CSS&q=windows+11&type=Repositories
+* https://github.com/search?l=JavaScript&q=windows+11&type=Repositories
