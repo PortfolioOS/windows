@@ -8,6 +8,7 @@ Portfolios/website with windows theme
 * https://www.bryceplunkett.com
 * requires self-hosting (https://github.com/parkoon2/window95)
 * https://winxp.now.sh
+* https://dustinbrett.com/
 
 ## Repositories
 * https://github.com/alevalenti44/windows95-portfolio
@@ -16,6 +17,7 @@ Portfolios/website with windows theme
 * https://github.com/Navbryce/WindowsPortfolio
 * https://github.com/parkoon2/window95
 * https://github.com/ShizukuIchi/winXP
+* https://github.com/DustinBrett/daedalOS
 
 ## Developers
 <table>
@@ -26,6 +28,7 @@ Portfolios/website with windows theme
     <td align="center"><a href="https://github.com/Navbryce"><img src="https://avatars.githubusercontent.com/u/25256936?v=4" width="100px;" alt=""/><br /><sub><b>Bryce Plunkett</b></sub></a><br /><a href="https://github.com/Navbryce/WindowsPortfolio">WindowsPortfolio</a></td>
     <td align="center"><a href="https://github.com/parkoon2"><img src="https://avatars.githubusercontent.com/u/22830784?v=4" width="100px;" alt=""/><br /><sub><b>Park JongHyeok</b></sub></a><br /><a href="https://github.com/parkoon2/window95">window95</a></td>
     <td align="center"><a href="https://github.com/ShizukuIchi"><img src="https://avatars.githubusercontent.com/u/19783326?v=4" width="100px;" alt=""/><br /><sub><b>sh1zuku</b></sub></a><br /><a href="https://github.com/ShizukuIchi/winXP">winXP</a></td>
+    <td align="center"><a href="https://github.com/DustinBrett"><img src="https://avatars.githubusercontent.com/u/16656318?v=4" width="100px;" alt=""/><br /><sub><b>Dustin Brett</b></sub></a><br /><a href="https://github.com/DustinBrett/daedalOS">daedalOS</a></td>
   </tr>
 </table>
 
